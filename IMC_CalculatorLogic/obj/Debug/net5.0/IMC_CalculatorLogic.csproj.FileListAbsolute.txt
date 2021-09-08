@@ -1,0 +1,11 @@
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\bin\Debug\net5.0\IMC_CalculatorLogic.deps.json
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\bin\Debug\net5.0\IMC_CalculatorLogic.dll
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\bin\Debug\net5.0\ref\IMC_CalculatorLogic.dll
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\bin\Debug\net5.0\IMC_CalculatorLogic.pdb
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.AssemblyInfoInputs.cache
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.AssemblyInfo.cs
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.csproj.CoreCompileInputs.cache
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.dll
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\ref\IMC_CalculatorLogic.dll
+C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\obj\Debug\net5.0\IMC_CalculatorLogic.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\terue\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\terue\\.nuget\\packages"
+    ]
+  }
+}

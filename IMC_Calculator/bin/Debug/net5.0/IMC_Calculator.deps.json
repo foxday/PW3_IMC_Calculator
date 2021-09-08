@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IMC_Calculator/1.0.0": {
+        "dependencies": {
+          "LogicClass": "1.0.0"
+        },
+        "runtime": {
+          "IMC_Calculator.dll": {}
+        }
+      },
+      "LogicClass/1.0.0": {
+        "runtime": {
+          "LogicClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMC_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

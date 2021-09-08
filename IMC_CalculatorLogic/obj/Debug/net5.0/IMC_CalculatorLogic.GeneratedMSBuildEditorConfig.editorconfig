@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = IMC_CalculatorLogic
+build_property.ProjectDir = C:\Users\terue\Documents\Projects\Facultad\Taller-Web-3\IMC_Calculator\IMC_Calculator\IMC_CalculatorLogic\

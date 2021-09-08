@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "LogicClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LogicClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicClass/1.0.0": {
+      "type": "project",
+      "path": "../LogicClass/LogicClass.csproj",
+      "msbuildProject": "../LogicClass/LogicClass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "LogicClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\terue\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\terue\\Documents\\Projects\\Facultad\\Taller-Web-3\\IMC_Calculator\\IMC_Calculator\\IMC_Calculator\\IMC_Calculator.csproj",
+      "projectName": "IMC_Calculator",
+      "projectPath": "C:\\Users\\terue\\Documents\\Projects\\Facultad\\Taller-Web-3\\IMC_Calculator\\IMC_Calculator\\IMC_Calculator\\IMC_Calculator.csproj",
+      "packagesPath": "C:\\Users\\terue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\terue\\Documents\\Projects\\Facultad\\Taller-Web-3\\IMC_Calculator\\IMC_Calculator\\IMC_Calculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\terue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\terue\\Documents\\Projects\\Facultad\\Taller-Web-3\\IMC_Calculator\\IMC_Calculator\\LogicClass\\LogicClass.csproj": {
+              "projectPath": "C:\\Users\\terue\\Documents\\Projects\\Facultad\\Taller-Web-3\\IMC_Calculator\\IMC_Calculator\\LogicClass\\LogicClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

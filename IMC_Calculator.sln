@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMC_Calculator", "IMC_Calculator\IMC_Calculator.csproj", "{95F58565-A3F3-48EB-981A-25BF9D4F949E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicClass", "LogicClass\LogicClass.csproj", "{11528FEA-8B4D-421A-92EE-67524BDB2D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F58565-A3F3-48EB-981A-25BF9D4F949E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F58565-A3F3-48EB-981A-25BF9D4F949E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F58565-A3F3-48EB-981A-25BF9D4F949E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F58565-A3F3-48EB-981A-25BF9D4F949E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11528FEA-8B4D-421A-92EE-67524BDB2D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11528FEA-8B4D-421A-92EE-67524BDB2D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11528FEA-8B4D-421A-92EE-67524BDB2D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11528FEA-8B4D-421A-92EE-67524BDB2D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502B0A25-E445-4BC0-82D1-FE0CF9D0E2A5}
+	EndGlobalSection
+EndGlobal
