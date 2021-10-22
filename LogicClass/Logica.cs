@@ -4,10 +4,11 @@ using System.Diagnostics;
 namespace LogicClass
 {
     public class Logica
+    // Hola
     {
         public static double CalculateIMC(int weight, double heigth)
         {
-            double imc = Math.Round(weight / Math.Pow(heigth / 100, 2), 2); 
+            double imc = Math.Round(weight / Math.Pow(heigth / 100, 2), 2);
             return imc;
         }
 
@@ -16,10 +17,10 @@ namespace LogicClass
             string IMCdescription = "";
             switch (imc)
             {
-                case double n when n <16.00:
+                case double n when n < 16.00:
                     IMCdescription = "Bajo peso - Delgadez severa (<16.00)";
                     break;
-                case double n when n >= 16.00 && n<=16.99:
+                case double n when n >= 16.00 && n <= 16.99:
                     IMCdescription = "Bajo peso - Delgadez moderada (16.00 - 16.99)";
                     break;
                 case double n when n >= 17.00 && n <= 18.49:
